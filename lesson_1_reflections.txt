@@ -1,0 +1,13 @@
+The files weren't that big, so spotting a difference between them wasn't that hard. That being said, a program that highlights JUST the changes is incredibly useful and I'm sure I'll be using the crap out of it as this course and my coding moves forward.
+
+Having the total history of a file could make you a more efficient programmer in the long term by allowing you to view the different kinds of mistakes you've made at different times.
+
+The pros and cons of manually choosing when to create a commit, versus having it autosave like in Google Docs are that you can create logical versions of files and not overcrowd your backlog, that way you can make far more reasonable comparisons to previous versions. The downside being if something goes wrong you may lose a good deal more work than you would with an autosaving feature.
+
+I believe Git allows you to commit multiple files simultaniously, unlike Google Docs which treats them each indipendently because with coding, which is what Git was built for, it is far more likely that you'll have intrinsically interconnected files.
+
+You can use the commands git log and git diff to view file history by 1. viewing a log of the different commits, and 2. comparing a select two commits via their ID.
+
+Using version control could help you be more confident in making changes that could break something because you know that a version of your program that isn't significantly different is at your fingertips if you need to revert or compare.
+
+I guess now thay my workspace is set up I'll be using Git for my Java programs

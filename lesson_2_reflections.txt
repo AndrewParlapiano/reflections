@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a git repository you are creating it, though no files are tracked to have their future commits saved. You need to do it in order to actually use version control.
+
+
