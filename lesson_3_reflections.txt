@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If the project you're working on is particularly large, or if you're redundantly backing it up in multiple locations.
+
+
